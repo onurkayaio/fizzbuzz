@@ -1,0 +1,17 @@
+{
+    "name": "onurkaya/fizzbuzz",
+    "authors": [
+        {
+            "name": "Onur Kaya",
+            "email": "onur.kaya@metglobal.com"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": { "": "src" }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.5"
+    }
+}
