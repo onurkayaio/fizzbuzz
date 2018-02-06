@@ -1,8 +1,8 @@
-## FizzBuzz example with PSR-4 Composer Autoload 
+## convert roman numerals example with PSR-4 Composer Autoload 
   
 PSR-4 Autoloader implementation based on example from [PHP-FIG](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-4-autoloader-examples.md/)
 
-##### Folder Structure
+##### folder structure
 
     .
     ├── src                  # Source files
@@ -14,12 +14,12 @@ PSR-4 Autoloader implementation based on example from [PHP-FIG](https://github.c
     ├── .gitignore
     └── README.me
     
-#### Installation
+#### installation
 
 `git clone https://github.com/onurkayaio/fizzbuzz.git` <br>
 `cd fizzbuzz` <br>
 `composer install`
 
-#### Run Tests
+#### run tests
 
 call `phpunit` in folder.
