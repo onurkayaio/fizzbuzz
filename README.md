@@ -1,4 +1,4 @@
-## convert roman numerals example with PSR-4 Composer Autoload 
+## fizz buzz example with PSR-4 Composer Autoload 
   
 PSR-4 Autoloader implementation based on example from [PHP-FIG](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-4-autoloader-examples.md/)
 
