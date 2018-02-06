@@ -1,11 +1,11 @@
 <?php
 
-namespace FizzBuzzControllerTest;
+namespace Tests;
 
 use Controller\FizzBuzz;
-use PHPUnit_Framework_TestCase;
+use PHPUnit\Framework\TestCase;
 
-class FizzBuzzTest extends PHPUnit_Framework_TestCase
+class FizzBuzzTest extends TestCase
 {
     public function testCheckNumber()
     {
